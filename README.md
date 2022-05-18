@@ -74,11 +74,9 @@ NO TEST THIS TIME
 
 [Click here] (https://thawing-ridge-75547.herokuapp.com)
 
-[Click here] (https://youtu.be/n4YY_3uE4e8)
+![imagename](./public/assets/img/img1.png)
 
-![imagename](./src/01.gif)
-
-![imagename](./src/demo.png)
+![imagename](./public/assets/img/img2.png)
 
 ## Questions
 
