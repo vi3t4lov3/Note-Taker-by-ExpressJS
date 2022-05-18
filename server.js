@@ -17,7 +17,7 @@ app.use(express.urlencoded( {extended: true} ));
 app.use(express.static(path.join(__dirname, './public')));
 
 //set routes for the database API
-app.use('/api', api)
+app.use('/api/notes', api)
 
 //HTML routes
 app.use('/', homePage)
